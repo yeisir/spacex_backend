@@ -24,4 +24,19 @@
    ```bash
    git clone https://github.com/yeisir/spacex_backend.git
 
-   Navigate to the project directory:
+2. **Navigate to the project directory:
+
+   ```bash
+   cd spacex_backend
+
+3. **Install dependencies:
+
+    ```bash
+    npm install
+
+   
+
+
+
+
+

@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-**SpaceX Backend** is a Node.js application that provides an API to interact with SpaceX launch data. It fetches information from the public SpaceX API, allowing users to explore details about missions, rockets, and upcoming launches.
+**SpaceX Backend** is a Node.js application that provides an endpoint to interact with SpaceX launch data. It fetches information from the public SpaceX API, allowing users to explore details about missions, rockets, and upcoming launches.
 
 ## 📌 Features
 
